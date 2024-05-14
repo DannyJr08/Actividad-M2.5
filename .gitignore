@@ -1,5 +1,7 @@
 M2.5env3.11.9/
 .DS_Store
+my_dir/
+tuner_results/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
